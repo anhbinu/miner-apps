@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -ewal 0xbfa2Ff7c3e5Bb6881580FAa8f946420e8EbE3Bb0
