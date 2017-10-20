@@ -6,5 +6,5 @@ setx GPU_USE_SYNC_OBJECTS 1
 setx GPU_MAX_ALLOC_PERCENT 100
 setx GPU_SINGLE_ALLOC_PERCENT 100
 
-eth-claymore/EthDcrMiner64.exe -epool asia1.ethermine.org:4444 -ewal 0xbfa2Ff7c3e5Bb6881580FAa8f946420e8EbE3Bb0.m1060g6
+eth-claymore\EthDcrMiner64.exe -epool asia1.ethermine.org:4444 -ewal 0xbfa2Ff7c3e5Bb6881580FAa8f946420e8EbE3Bb0.m1060g6
 
