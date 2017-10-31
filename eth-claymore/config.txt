@@ -6,7 +6,7 @@
 -epsw x
 -mport 3333
 -mode 1
--tt 75
+# -tt 75
 # -ttli 85
 -fanmax 80
 # -cclock 1150
