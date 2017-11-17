@@ -1,4 +1,4 @@
 # WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
 
 
-POOL: stratum+tcp://dcr.suprnova.cc:3252, WALLET: anhbinu.580G8, PSW: 25251325
+# POOL: stratum+tcp://dcr.suprnova.cc:3252, WALLET: anhbinu.580G8, PSW: 25251325

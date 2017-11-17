@@ -7,4 +7,4 @@ setx GPU_MAX_ALLOC_PERCENT 100
 setx GPU_SINGLE_ALLOC_PERCENT 100
 
 eth-claymore\EthDcrMiner64.exe -epool asia1.ethermine.org:4444 -ewal 0xf7afdc43a6c704c089cf9d1e48dea1600e78f251.580
-eth-claymore\Remote manager\EthMan.exe
+

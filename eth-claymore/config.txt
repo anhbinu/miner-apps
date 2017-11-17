@@ -5,7 +5,7 @@
 -ewal 0xf7afDC43A6c704C089Cf9D1E48DeA1600E78F251.nu580G8
 -epsw x
 -mport 3333
--mode 0
+-mode 1
 # -tt 75
 # -ttli 85
 -fanmax 80
