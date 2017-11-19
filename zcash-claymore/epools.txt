@@ -1,0 +1,5 @@
+# WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
+
+POOL: ssl://asia1-zcash.flypool.org:3443, WALLET: t1T8TM2AoyjcqJQJVaCviXca7chKQ3MoQEn.miner1, PSW: z, ALLPOOLS: 0
+POOL: eu1-zcash.flypool.org:3333, WALLET: t1T8TM2AoyjcqJQJVaCviXca7chKQ3MoQEn.miner1, PSW: z, ALLPOOLS: 0
+POOL: zec-eu1.nanopool.org:6666, WALLET: t1T8TM2AoyjcqJQJVaCviXca7chKQ3MoQEn, PSW: z, ALLPOOLS: 0
