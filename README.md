@@ -24,8 +24,10 @@ To mine other coins, configure and run correct bash file.
 
 | COIN  | Card | Speed/Earn  | ROM/Driver  | Over Clock  | Temp (C) |
 |---|---|---|---|---|---|
-|  ETH | MSI RX 580 8G | 29.4/27.75  | Custom  |  C: 1100; M: 2100| 50 ~ 65 |
-|  ETH |  EVGA 1060 6G | 22.55/22.25  | Origin   | M: 500; T: 70  | 58 (2Fan) - 70(1Fan) |
+|  ETH/ETC | MSI RX 580 8G | 29.4/27.75 (Mh)  | Custom  |  C: 1100; M: 2100| 50 ~ 65 |
+|  ETH/ETC |  EVGA 1060 6G | 22.55/22.25 (Mh)  | Origin   | M: 500; T: 70  | 58 (2Fan) - 70(1Fan) |
+|  ZCASH | MSI RX 580 8G | 276 (h/s)  | Custom  |  C: 1100; M: 2100| 50 ~ 65 |
+|  ZCASH |  EVGA 1060 6G | 22.55/22.25 (h/s)  | Origin   | M: 500; T: 70  | 58 (2Fan) - 70(1Fan) |
 
 
 # About

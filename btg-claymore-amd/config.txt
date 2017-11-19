@@ -1,0 +1,7 @@
+-zpool eu.pool.gold:3044
+-zwal GSrP5KGxrgBXV1kQkAPy2g3fmgcUeoESMw.worker
+-zpsw z
+-ftime 1
+-i 6
+-tt 75
+-allpools 1

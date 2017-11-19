@@ -1,0 +1,7 @@
+# WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
+
+POOL: eu.pool.gold:3044, WALLET: GSrP5KGxrgBXV1kQkAPy2g3fmgcUeoESMw.worker, PSW: z, ALLPOOLS: 1
+POOL: us-west.pool.gold:3044, WALLET: GSrP5KGxrgBXV1kQkAPy2g3fmgcUeoESMw.worker PSW: z, ALLPOOLS: 1
+POOL: us-east.pool.gold:3044, WALLET: GSrP5KGxrgBXV1kQkAPy2g3fmgcUeoESMw.worker PSW: z, ALLPOOLS: 1
+POOL: asia.pool.gold:3044, WALLET: GSrP5KGxrgBXV1kQkAPy2g3fmgcUeoESMw.worker PSW: z, ALLPOOLS: 1
+POOL: la.pool.gold:3044, WALLET: GSrP5KGxrgBXV1kQkAPy2g3fmgcUeoESMw.worker PSW: z, ALLPOOLS: 1
