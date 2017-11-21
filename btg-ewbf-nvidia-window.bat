@@ -1,2 +1,2 @@
 TIMEOUT /T 20
-btg-ewbf-nvdia\miner.exe --server btg.suprnova.cc --port 8816 --user anhbinu.nvidia --pass 25251325
+btg-ewbf-nvidia\miner.exe --server asia.pool.gold --port 3044 --user GcWbn5NyNJVkLNnFJY5Hmhf5PraQbWQjKH.nvidia --pass 25251325
