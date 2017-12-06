@@ -2,9 +2,9 @@
 # WARNING! Miner loads options from this file only if there are not any options in the command line!
 
 -epool asia1.ethermine.org:4444 
--ewal 0xf7afDC43A6c704C089Cf9D1E48DeA1600E78F251.nu580G8
+-ewal 0xf7afDC43A6c704C089Cf9D1E48DeA1600E78F251.xxx
 -epsw x
--mport 3333
+-mport 3344
 -mode 1
 # -tt 75
 # -ttli 85
