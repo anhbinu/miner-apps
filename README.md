@@ -65,7 +65,7 @@ Multi platform Wallet app:
 
 f: anhbinu
 
-## My Wallet: (Buy me a coffee if it helpful to you. Thanks)
+## My Wallet: (Buy me a coffee if it helpful for you. Thanks)
 
 BTC: 1GNcmVFoKd4UJ1ZYEoa71K48Ta988eynqS
 
