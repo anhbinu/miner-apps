@@ -1,12 +1,42 @@
 VERSION HISTORY
 
 
+v11.1
+---------------------------------------------------------------------
+
+- added SSL support with pool certificate verification, it significantly improves security, use "ssl://" prefix for pools that support SSL encryption.
+- added "-checkcert" option.
+- EthMan updated.
+
+
+
+v11.0
+---------------------------------------------------------------------
+
+- added new algorithm for dual mode: blake2s (stratum pools only), use "-dcoin blake2s" option.
+- added new algorithm for dual mode: keccak (stratum pools only), use "-dcoin keccak" option.
+- reduced devfee for dual mode, now it is 1.5%.
+- for 2GB cards devfee is removed completely, i.e. on 2GB cards you can mine all ETH forks without devfee. Check Readme for details.
+- added "-tstart" option.
+- "-asm 2" option value now supports Tahiti, Tonga, Ellesmere, Baffin; in some cases it can be a bit faster in ETH-only mode.
+- removed "-allcoins exp" option value.
+- a few minor bug fixes and improvements.
+
+
+
+v10.6
+---------------------------------------------------------------------
+
+- fixed critical issue in remote management feature (attacker could crash miner even in read-only mode).
+
+
+
 v10.5
 ---------------------------------------------------------------------
 
 - applied another workaround for ADL, you must not see "Temperature control thread hangs" message now.
 - added version for CUDA 9.1.
-- now miner shows a warning you if you enabled full remote management (-mport > 0) and did not specify -mpsw parameter.
+- now miner shows a warning if you enabled full remote management (-mport > 0) and did not specify -mpsw parameter.
 - now miner shows a warning if you specified default ETH wallet (from default start.bat).
 
 
